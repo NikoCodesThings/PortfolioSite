@@ -1,4 +1,11 @@
 .jumbotron{
     padding:15%;
     background-image: url(images/background.jpg);
+    background-size: cover;
+    text-align: left;
+    padding-left: 200px;
+}
+.jumboText{
+    color: whitesmoke;
+    font-weight: bold;
 }
