@@ -1,3 +1,6 @@
+body{
+    background-color: whitesmoke;
+}
 .jumbotron{
     padding:15%;
     background-image: url(images/background.jpg);
@@ -8,4 +11,29 @@
 .jumboText{
     color: whitesmoke;
     font-weight: bold;
+}
+.title{
+    text-align: center;
+}
+#aboutMe{
+    padding-top: 50px;
+}
+#aboutInfo{
+    margin-top: 50px;
+}
+#aboutText{
+    margin-top: 50px;
+}
+#profile{
+    max-width: 60%;
+    margin-left: 100px;
+}
+#skills{
+    margin-top: 50px;
+}
+#skillset{
+    padding: 25px;
+}
+#categories{
+    text-align: right;
 }
